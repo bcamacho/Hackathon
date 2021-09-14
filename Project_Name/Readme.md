@@ -1,6 +1,6 @@
 # ⚡ Hackathon Project Template ⚡
 _This is a sample submission repository.
-Please __fork this repo__ and use this as a starting point for your hackathon project._
+Please [__fork this repo__](https://help.github.com/articles/fork-a-repo/) and use this as a starting point for your hackathon project._
 
 ## Project Name
 ### Team name
@@ -26,4 +26,4 @@ List any links to your presentation or any related visuals you want to share.
 What do you need to do next to turn this prototype into a working solution?
 
 #### License
-This repository includes an unlicensed statement though you may want to choose a different license.
+This repository includes an [unlicensed](http://unlicense.org/) statement though you may want to [choose a different license](https://choosealicense.com/).
